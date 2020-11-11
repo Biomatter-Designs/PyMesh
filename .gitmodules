@@ -1,6 +1,6 @@
 [submodule "third_party/libigl"]
 	path = third_party/libigl
-	url = https://github.com/qnzhou/libigl.git
+	url = https://github.com/PyMesh/libigl.git
 [submodule "third_party/carve"]
 	path = third_party/carve
 	url = https://github.com/qnzhou/carve.git
